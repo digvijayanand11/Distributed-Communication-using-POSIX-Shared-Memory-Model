@@ -1,0 +1,17 @@
+//////////////////////////////////////////////////////////////////////////
+// author: Digvijay Anand
+// date modified: 02-16-2025
+//////////////////////////////////////////////////////////////////////////
+
+#include <iostream>
+#include <cstring>
+#include <pthread.h>
+#include <fcntl.h>
+#include <sys/mman.h>
+#include <unistd.h>
+#include <semaphore.h>
+
+
+void main(){
+
+}
